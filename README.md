@@ -42,13 +42,6 @@ Adjust the scheme and destination as needed.
 
 ## Notes for contributors
 
-- This is intended as a demo/sample app. Keep changes small and focused.
+- This is intended as a demo/sample app. 
 - If you add new assets, update the `Assets.xcassets` catalog.
 
-## License
-
-This repository does not include a license file. Add one if you plan to reuse or distribute the code.
-
----
-
-If you'd like, I can also set the repository description and add topics (swift, swiftui, ios, ecommerce, furniture) using the GitHub CLI—would you like me to proceed? Otherwise I'll attempt to set them now.
